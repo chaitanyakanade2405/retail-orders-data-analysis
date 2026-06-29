@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Kaggle API
+.kaggle/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+*.zip
